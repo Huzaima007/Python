@@ -43,12 +43,17 @@
 
 # Logical Operators
 
-a = 50
-b = 30
-print(not False)
-print(not (a > b))
+# a = 50
+# b = 30
+# print(not False)
+# print(not (a > b))
 
-val1 = True 
-val2 = True
-print("ans operator:" , val1 and val2) 
-print("ans operator:" , val1 or val2) 
+# val1 = True 
+# val2 = True
+# print("ans operator:" , val1 and val2) 
+# print("ans operator:" , val1 or val2) 
+
+
+# Type Conversion
+
+
