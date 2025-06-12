@@ -117,3 +117,10 @@
 
 # print("The Total Of Square Height" , side1 * side1)
 # print("The Total Of Square Width" , side2 * side2)
+
+# Ques 3
+
+# a = float(input("Enter First:"))
+# b = float(input("Enter Second:"))
+
+# print("avg =" , (a+b)/2 )
