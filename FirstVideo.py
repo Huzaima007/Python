@@ -56,4 +56,64 @@
 
 # Type Conversion
 
+# #  Integer
+# a = int("2")
+# b = 4.5
 
+# print(type(a))
+# sum = a + b # 2.0 + 4.25 => 6.25
+# print(sum)
+
+# # Float
+# a = float("2")
+# b = 4.5
+
+# print(type(a))
+# sum = a + b # 2.0 + 4.25 => 6.25
+# print(sum)
+
+# # String 
+# a = 3.14
+# a = str(a)
+
+# print(type(a))
+
+
+# Inputs In Python 
+
+# name = input("Enter Your Name:")
+# print("Welcome" , name)
+
+
+# val = int(input("Enter Some Value"))
+# print(type(val) , val)
+
+# val = float(input("Enter Some Value"))
+# print(type(val) , val)
+
+
+# name = input("Enter Your name")
+# age = int(input("Enter Your age"))
+# marks = float(input("Enter Your marks"))
+
+# print("Welcome" , name)
+# print("Age =" , age)
+# print("Marks =" , marks)
+
+
+# Practice Question
+
+# Ques 1
+
+# a = int(input("Enter Some Value In Integer"))
+# b = int(input("Enter Another Value Integer"))
+
+# print("The Sum Of These Two Values Are:" , a + b)
+
+# Ques 2
+
+# side1 = float(input("Enter Square Side Height"))
+# side2 = float(input("Enter Square Side Width"))
+
+# print("The Total Of Square Height" , side1 * side1)
+# print("The Total Of Square Width" , side2 * side2)
