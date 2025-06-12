@@ -124,3 +124,10 @@
 # b = float(input("Enter Second:"))
 
 # print("avg =" , (a+b)/2 )
+
+# Ques 4
+
+# a = int(input("Enter Some Value"))
+# b = int(input("Enter Some Value"))
+
+# print(a >= b )
