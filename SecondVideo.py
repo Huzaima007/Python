@@ -37,3 +37,4 @@
 # print(str[-5:]) 
 
 
+# String Function 
