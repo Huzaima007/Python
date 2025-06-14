@@ -19,10 +19,21 @@
 
 
 # Length  
-
 # length1 = "hhhhhhhhhhhhhhhhh"
 # print(len(length1))
 
 # Indexing 
 # index starts form 0
+# str = "Huzaima"
+# ch = str[2]
+# print(ch) 
+
+
+# Slicing 
+# str = "Huzaima"
+# print(str[1:]) 
+
+# str = "Huzaima"
+# print(str[-5:]) 
+
 
