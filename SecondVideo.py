@@ -38,3 +38,25 @@
 
 
 # String Function 
+
+# Endswith Function 
+# str = "I an studying Python"
+# print(str.endswith("hon"))
+
+# Capitalize Function 
+# str = "i an studying Python"
+# print(str.capitalize())
+
+# Replace Function
+# str = "I an studying Python"
+# print(str.replace("t","o"))
+  
+# Find Function 
+# str = "I an studying Python"
+# print(str.find("o"))
+
+# Count Function 
+# str = "I an studying Python"
+# print(str.count("t"))
+
+ 
