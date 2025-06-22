@@ -59,4 +59,12 @@
 # str = "I an studying Python"
 # print(str.count("t"))
 
- 
+#  Practice  
+
+# name = input("Ente Your Name ")
+# print("Length Of Your Name Is",len(name))
+
+
+
+str = "Hi , $I am the $ SYMBOL $99.99"
+print(str.count("$"))
