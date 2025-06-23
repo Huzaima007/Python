@@ -61,10 +61,102 @@
 
 #  Practice  
 
+# Q1
 # name = input("Ente Your Name ")
 # print("Length Of Your Name Is",len(name))
 
+# Q2
+# str = "Hi , $I am the $ SYMBOL $99.99"
+# print(str.count("$"))
+
+# If Else Cond 
+
+# EX 1
+# light = "green"
+# if(light == "red"):
+#     print("stop")
+# elif(light == "yellow"):
+#     print("ready")
+# elif(light == "green"):
+#     print("go")
+# else:
+#     print("light is broken")
+
+# EX 2
+
+# marks = int(input("Enter the marks: "))
+
+# if (marks >= 90):
+#     grade = "A"
+# elif (marks >= 80):
+#     grade = "B"
+# elif (marks >= 70):
+#     grade = "C"
+# else:
+#     grade = "D"
+
+# print("Grade of the student:", grade)
 
 
-str = "Hi , $I am the $ SYMBOL $99.99"
-print(str.count("$"))
+# EX 3 NESTED 
+
+# Part 1
+# age = 33
+
+# if (age >= 18):
+#    if(age >= 80):
+#         print("Cannot Drive")
+#    else:
+#        print("Can Drive")     
+# else:
+#     print("Cannot drive")
+
+
+# Part 2
+# age = 93
+
+# if (age >= 18):
+#    if(age >= 80):
+#         print("Cannot Drive")
+#    else:
+#        print("Can Drive")     
+# else:
+#     print("Cannot drive")
+
+
+# Practice
+
+
+# Q1 
+
+# num = int(input("Enter Some Num"))
+
+# if (num % 2 == 0):
+#     print("Even")
+# else:
+#     print("Odd")    
+    
+    
+# Q2 
+
+# a = int(input("Enter Some Num"))
+# b = int(input("Enter Some Num"))
+# c = int(input("Enter Some Num"))
+
+# if(a >= b and a >= c):
+#     print("first number is largest" , a)
+# elif(b >= c):
+#     print("second number is largest" , b)
+# else:
+#     print("third is the largest" , c)
+
+
+# Q3 
+
+# x = int(input("Enter Some Num"))
+
+# if(x % 5 == 0):
+#     print("multiple of 5")
+# else:
+#     print("not a multiple")
+    
