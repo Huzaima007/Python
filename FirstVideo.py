@@ -75,14 +75,13 @@
 # # String 
 # a = 3.14
 # a = str(a)
-
 # print(type(a))
 
 
 # Inputs In Python 
 
-name = input("Enter Your Name:")
-print("Welcome" , name)
+# name = input("Enter Your Name:")
+# print("Welcome" , name)
 
 
 # val = int(input("Enter Some Value"))
