@@ -82,3 +82,90 @@
 # difference b/w tuple and in list, list are mutable ,tuples are immutable 
 
 
+# tup = (1,2,3,4,5,6)
+# print(type(tup))
+# print(tup[0])
+# print(tup[1])
+
+
+# Empty tuple
+# tup = ()
+# print(tup)
+# print(type(tup))
+
+
+# Single Value tuple
+# tup = (1,)
+# print(tup)
+# print(type(tup))
+
+
+
+# Slicing In Tuple 
+# tup = (1,2,3,4,5,6)
+# print(tup[1:3])
+
+
+# Tuple Methods 
+
+# tup = (1,2,3,4,5,6)
+
+# Index Method / return index of first occurrence
+# print(tup.index(2))
+
+# Count Method / count total ocurences
+# print(tup.count(2))
+
+
+# Practice Ques
+
+# Q1
+# sol 1
+# movies = []
+# movie1 = input("Enter Movie 1")
+# movie2 = input("Enter Movie 2")
+# movie3 = input("Enter Movie 3")
+
+# movies.append(movie1)
+# movies.append(movie2)
+# movies.append(movie3)
+# print(movies)
+
+# sol 2
+# movies = []
+# movies.append(input("Enter Movie 1"))
+# movies.append(input("Enter Movie 2"))
+# movies.append(input("Enter Movie 3"))
+# print(movies)
+
+
+
+# Q2
+
+# list1 = [1,2,1]
+# copy_list1 = list1.copy()
+# copy_list1.reverse()
+# if(copy_list1 == list1):
+#     print("palindrome")
+# else:
+#     print("not palindrome")
+
+
+# list1 = [1,2,3]
+# copy_list1 = list1.copy()
+# copy_list1.reverse()
+# if(copy_list1 == list1):
+#     print("palindrome")
+# else:
+#     print("not palindrome")
+
+# Q3
+
+# grade = ("C", "D", "A", "A", "B", "B", "A",)
+# print(grade.count("A"))
+
+# Q4
+
+# grade = ["C", "D", "A", "A", "B", "B", "A"]
+# grade.sort()
+# print(grade)
