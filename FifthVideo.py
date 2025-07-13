@@ -111,6 +111,62 @@
 
 
 
-# For Loop In Python 
+# For Loops In Python
 
 
+
+# list = [1,2,3,4,5,6]
+
+# for val in list:
+#     print(list)
+
+
+
+
+# tup = (1,2,3,4,5)
+
+# for num in tup:
+#     print(num)
+
+
+
+
+# str = "Huzaima"
+
+# for char in str:
+#     print(char)
+
+
+
+# for loop with else 
+
+
+# str = "Huzaima"
+
+# for char in str:
+#     print(char)
+# else:
+#     print("end")    
+
+
+
+
+# str = "Huzaima"
+
+# for char in str:
+#     if(char == "m"):
+#         print("m found")
+#         break
+#     print(char)
+# else:
+#     print("end")    
+
+
+
+
+
+# Practice 
+
+# Q1 
+
+print("Huzaima")
