@@ -169,4 +169,26 @@
 
 # Q1 
 
-# print("Huzaima")
+# list = [1,4,9,16,25,36,49,64,81,100]
+
+# for val in list:
+#     print(val)
+
+
+
+# Q2 
+
+# list = [1,4,9,16,25,36,49,64,81,100,49]
+# x = 49
+
+# idx = 0 
+# for val in list:
+#     if(val == x):
+#         print("num found at idx" , idx)
+#     idx += 1    
+
+
+
+
+
+# Range Function 
