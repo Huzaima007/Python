@@ -192,3 +192,143 @@
 
 
 # Range Function 
+
+
+# seq = range(10)
+
+# for i in range(10):  //range(stop)
+#     print(i)
+
+
+
+
+
+# for i in range(2,10):  //range(start, stop)
+#     print(i)
+
+
+    
+
+# for i in range(2, 10, 2):  #//range(start,stop,step)
+#     print(i)
+
+
+
+
+
+
+
+# for i in range(2, 101, 2):  
+#     print(i)
+
+
+
+
+
+
+
+#   Practice
+
+
+# Ques 1 
+
+# for i in range(1, 101):  
+#     print(i)
+
+
+
+# Ques 2 
+
+# for i in range(100, 0, -1):  
+#     print(i)
+
+
+
+
+# Ques 3 
+
+
+# n = int(input("enter a number"))
+
+# for i in range(1, 11):
+#     print(n * i)
+
+
+
+
+
+# Pass Statement 
+
+
+# for i in range(101):
+#     pass
+
+# print("some useful work")
+
+
+
+
+
+
+# for i in range(101):
+#     pass
+
+
+# if i > 5:
+#     pass
+
+# print("some useful work")
+
+
+
+# Practice 
+
+
+# Ques 1  
+
+
+# Using While loop 
+# n = 5 
+# sum = 0
+# i = 1
+# while i <= n:
+#     sum += i 
+#     i += 1
+# print("total sum =", sum)
+
+
+
+# Using For loop 
+
+# n = 5 
+# sum = 0
+
+# for i in range( 1,n + 1):
+#     sum  += i
+
+# print("total sum =", sum)
+
+
+
+
+# Ques 2 
+
+# Using While loop 
+# n = 5 
+# fact = 1
+# i = 1
+# while i <= n:
+#     fact *= i 
+#     i += 1
+# print("factorial =", fact)
+
+
+
+# Using For loop 
+# n = 5 
+# fact = 1
+
+# for i in range(1, n+1):
+#     fact *= i 
+# print("factorial =", fact)
+
