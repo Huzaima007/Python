@@ -36,4 +36,33 @@
 
 # Built-in Functions 
 
+# print("Huzaima") 
+
+# len()
+
+# range()
+
+# type()
+
+
 # User-defined Functions 
+ 
+
+
+# Practice Ques
+
+# Q1
+
+# cities = ["karachi" , "Lahore", "Quetta"]
+# heros = ["hulk" , "fireman", "waterman", "windman"]
+
+# def print_len(list):
+#     print(len(list))
+
+# print_len(cities)
+# print_len(heros)
+
+
+# Q2
+
+
