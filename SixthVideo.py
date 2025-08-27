@@ -63,6 +63,57 @@
 # print_len(heros)
 
 
+
 # Q2
+
+
+# cities = ["karachi" , "Lahore", "Quetta"]
+# heros = ["hulk" , "fireman", "waterman", "windman"]
+
+# def print_len(list):
+#     print(len(list))
+
+# def print_list(list):
+#     for item in list:
+#         print(item,end=" ")
+
+# print_list(heros)
+# print_list(cities)
+
+
+
+# Q3 
+
+
+
+# n = 5
+
+
+# def cal_fact(n):
+#     fact = 1
+#     for i in range(1, n+1):
+#         fact *= i 
+#     print(fact)
+
+# cal_fact(6)    
+
+
+
+# Q4
+
+
+# def converter(usd_val):
+#     rs_val = usd_val * 320
+#     print(usd_val, "USD =", rs_val, "RS")
+
+# converter(int(input("Add your Ammount")))
+
+
+
+
+
+
+# Recursion In Python
+
 
 
