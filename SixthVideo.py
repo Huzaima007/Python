@@ -154,12 +154,12 @@
 
 # Q2
 
-def print_list(list, idx=0):
-    if(idx == len(list)):
-        return
-    print(list[idx])
-    print_list(list, idx+1)
+# def print_list(list, idx=0):
+#     if(idx == len(list)):
+#         return
+#     print(list[idx])
+#     print_list(list, idx+1)
 
-heros = ["mota" , "chota" , "kota" , "pota"]
+# heros = ["mota" , "chota" , "kota" , "pota"]
 
-print_list(heros)
+# print_list(heros)
