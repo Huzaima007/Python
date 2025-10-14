@@ -114,3 +114,20 @@
 # METHODS 
 
 
+class Student:
+
+    college_name = "ABC"
+
+    def __init__(self, name, marks):
+        self.name = name
+        self.marks = marks
+
+
+    def welcome(self):
+        print("Welcome Student", self.name)
+
+        
+
+s1 = Student("HUZAIMA" , 100)
+s1.welcome()
+
